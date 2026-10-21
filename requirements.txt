@@ -1,0 +1,11 @@
+# Entorno común (Linux/NVIDIA y Mac/Apple Silicon). En Linux con GPU, instalar torch con la build CUDA que corresponda.
+keras>=3.3
+torch>=2.2
+numpy
+matplotlib
+pandas
+pillow
+scikit-image
+opencv-python
+mediapipe
+imageio
